@@ -1,0 +1,4 @@
+Ans 1)Menus are a common user interface component in many types of applications. To provide a familiar and consistent user experience, you should use the Menu APIs to present user actions and other options in your activities.
+Ans 2)Android Option Menus are the primary menus of android. They can be used for settings, search, delete item etc.
+Ans3)Android context menu appears when user press long click on the element. It is also known as floating menu.
+Ans 4)AppCompatActivity is the alternative of ActionBarActivity as it is depricated.
